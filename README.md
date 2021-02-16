@@ -1,8 +1,8 @@
 # Meu Repositório
 Este é o meu **primeiro repositório** no *Github*.
 
-Eis um trecho de código em Python:
-`print("Olá mundo!)"`
+Eis um trecho de código em TypeScript:
+`console.log("Olá mundo!)"`
 
 Como diria o filósofo:
 > Comamos e bebamos, porque amanhã morreremos.
@@ -10,9 +10,9 @@ Como diria o filósofo:
 Nesta disciplina eu irei aprender mais sobre:
 1. Desenvolvimento Mobile com Ionic
 2. Conceitos de desenvolvimento ágil de software
-3. Conceitos de modelagem e arquitetura de software
 
 Links úteis:
+* [UFLA](https://www.ufla.br)
 * [Campus Virtual](https://campusvirtual.ufla.br)
 
 ![Imagem da UFLA](https://ufla.br/images/noticias/2018/08_ago/biblioteca-ufla.jpg)
