@@ -1,8 +1,8 @@
 # Meu Repositório
 Este é o meu **primeiro repositório** no *Github*.
 
-Eis um trecho de código em TypeScript:
-`console.log("Olá mundo!)"`
+Eis um trecho de código em Python:
+`print("Olá mundo!)"`
 
 Como diria o filósofo:
 > Comamos e bebamos, porque amanhã morreremos.
