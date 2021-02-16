@@ -13,7 +13,6 @@ Nesta disciplina eu irei aprender mais sobre:
 3. Conceitos de modelagem e arquitetura de software
 
 Links úteis:
-* [UFLA](https://www.ufla.br)
 * [Campus Virtual](https://campusvirtual.ufla.br)
 
 ![Imagem da UFLA](https://ufla.br/images/noticias/2018/08_ago/biblioteca-ufla.jpg)
